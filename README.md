@@ -4,5 +4,5 @@ This repository accompanies the study LU and FF trajectories across the APAF. It
   - The Python scripts used to generate most of the results
   - The tables used by the scripts
   - The Google Earth Engine (GEE) script for downloading the MapBiomas data
-  - A folder with the interactive Sankey diagrams
+  - A link to the folder with the interactive Sankey diagrams (https://box.fu-berlin.de/s/ZmEiodSaWit2jjR)
   - A link to the transition GeoTIFF files (https://box.fu-berlin.de/s/pJ8fmsBkdK3C2JR)
